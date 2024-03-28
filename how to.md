@@ -1,0 +1,5 @@
+- скачать и установить obsidian https://obsidian.md/download
+- скачать и установить sublime merge https://www.sublimemerge.com/download
+- склонировать репозиторий 
+	- открыть репозиторий в github скопировать ссылку 
+	- ![](img/Pasted%20image%2020240328122150.png)
