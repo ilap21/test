@@ -59,3 +59,8 @@ A table:
 
 # My short description
 **I am** a 2nd year _student_ of physics. `This is the second job on this site.` I'm just learning how to work here.
+
+
+
+
+\( q=-k \frac{\partial u}{\partial x} S \)
