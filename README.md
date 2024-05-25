@@ -63,4 +63,4 @@ A table:
 
 
 
-\( q=-k \frac{\partial u}{\partial x} S \)
+$\( q=-k \frac{\partial u}{\partial x} S \)$
